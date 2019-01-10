@@ -13,6 +13,7 @@
 		2EC2C14621E6663A003E634C /* iOSLab.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2EC2C14421E6663A003E634C /* iOSLab.xcdatamodeld */; };
 		2EC2C14821E6663C003E634C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EC2C14721E6663C003E634C /* Assets.xcassets */; };
 		2EC2C14B21E6663C003E634C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EC2C14921E6663C003E634C /* LaunchScreen.storyboard */; };
+		2EC2C15E21E7B4B8003E634C /* tableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC2C15D21E7B4B8003E634C /* tableVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2EC2C14721E6663C003E634C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EC2C14A21E6663C003E634C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2EC2C14C21E6663C003E634C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EC2C15D21E7B4B8003E634C /* tableVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2EC2C13D21E6663A003E634C /* AppDelegate.swift */,
 				2EC2C13F21E6663A003E634C /* ViewController.swift */,
 				2EC2C14121E6663A003E634C /* Main.storyboard */,
+				2EC2C15D21E7B4B8003E634C /* tableVC.swift */,
 				2EC2C14721E6663C003E634C /* Assets.xcassets */,
 				2EC2C14921E6663C003E634C /* LaunchScreen.storyboard */,
 				2EC2C14C21E6663C003E634C /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EC2C14021E6663A003E634C /* ViewController.swift in Sources */,
+				2EC2C15E21E7B4B8003E634C /* tableVC.swift in Sources */,
 				2EC2C13E21E6663A003E634C /* AppDelegate.swift in Sources */,
 				2EC2C14621E6663A003E634C /* iOSLab.xcdatamodeld in Sources */,
 			);
